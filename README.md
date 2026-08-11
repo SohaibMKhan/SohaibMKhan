@@ -219,12 +219,18 @@ A native Windows-based monitoring approach for large synced document environment
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SohaibMKhan&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SohaibMKhan&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+<a href="https://github.com/SohaibMKhan">
+<img width="49%" src="https://github-readme-stats-fast.vercel.app/api?username=SohaibMKhan&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+</a>
+<a href="https://github.com/SohaibMKhan">
+<img width="49%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=SohaibMKhan&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+</a>
 
 <br/><br/>
 
-<img width="72%" src="https://github-readme-streak-stats.herokuapp.com/?user=SohaibMKhan&theme=dark&hide_border=true&ring=1565C0&fire=00BCD4&currStreakLabel=00BCD4" />
+<a href="https://github.com/SohaibMKhan">
+<img width="72%" src="https://github-readme-stats-fast.vercel.app/api/streak?username=SohaibMKhan&theme=dark&hide_border=true&ring=1565C0&fire=00BCD4&currStreakLabel=00BCD4" />
+</a>
 
 </div>
 
@@ -267,9 +273,11 @@ Turn insights into action
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=1565C0&height=1" />
 
-## 🔗 &nbsp;Let's Connect
-
 <div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1565C0,100:00BCD4&height=90&section=header&animation=fadeIn" />
+
+## 🔗 &nbsp;Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sohaib-muhammad-khan)
 [![Email](https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sohaib271201@gmail.com)
@@ -280,13 +288,5 @@ Turn insights into action
 **Data Analytics · Business Intelligence · AI · Automation**
 
 *Building systems that help people understand data, automate work, and make better decisions.*
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00BCD4,50:1565C0,100:0d1117&height=130&section=footer&animation=fadeIn&reversal=true" />
 
 </div>
