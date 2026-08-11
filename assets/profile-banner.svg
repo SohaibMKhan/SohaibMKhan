@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="210" viewBox="0 0 1200 210" role="img" aria-label="Sohaib Muhammad Khan — Data Analytics, Business Intelligence, AI and Automation">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="0.5" stop-color="#1565c0"/>
+      <stop offset="1" stop-color="#00a8c6"/>
+    </linearGradient>
+    <linearGradient id="wave" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="0.5" stop-color="#1565c0"/>
+      <stop offset="1" stop-color="#00bcd4"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="210" rx="8" fill="#0d1117"/>
+  <rect x="0" y="0" width="1200" height="150" fill="url(#bg)" opacity="0.16"/>
+  <text x="600" y="72" text-anchor="middle" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="700">SOHAIB MUHAMMAD KHAN</text>
+  <text x="600" y="105" text-anchor="middle" fill="#b3e5fc" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="600">DATA ANALYTICS  •  BUSINESS INTELLIGENCE  •  AI &amp; AUTOMATION</text>
+  <path d="M0 155 C180 125 320 185 500 157 C690 128 830 182 1010 150 C1080 138 1140 140 1200 132 L1200 210 L0 210 Z" fill="url(#wave)" opacity="0.9"/>
+  <path d="M0 172 C180 145 340 192 520 169 C710 145 860 190 1030 160 C1100 148 1150 152 1200 146 L1200 210 L0 210 Z" fill="#00bcd4" opacity="0.22"/>
+</svg>
