@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1565C0,100:00BCD4&height=220&section=header&text=SOHAIB%20MUHAMMAD%20KHAN&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=DATA%20ANALYTICS%20%7C%20BUSINESS%20INTELLIGENCE%20%7C%20AI%20%26%20AUTOMATION&descAlignY=58&descSize=16&descColor=B3E5FC&animation=fadeIn" />
+<img width="100%" src="./assets/profile-banner.svg" alt="Sohaib Muhammad Khan — Data Analytics, Business Intelligence, AI & Automation" />
 
 <br/>
 
@@ -220,16 +220,16 @@ A native Windows-based monitoring approach for large synced document environment
 <div align="center">
 
 <a href="https://github.com/SohaibMKhan">
-<img width="49%" src="https://github-readme-stats-fast.vercel.app/api?username=SohaibMKhan&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+<img width="49%" src="https://github-stats-extended.vercel.app/api?username=SohaibMKhan&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="Sohaib's GitHub statistics" />
 </a>
 <a href="https://github.com/SohaibMKhan">
-<img width="49%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=SohaibMKhan&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+<img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=SohaibMKhan&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Sohaib's top languages" />
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/SohaibMKhan">
-<img width="72%" src="https://github-readme-stats-fast.vercel.app/api/streak?username=SohaibMKhan&theme=dark&hide_border=true&ring=1565C0&fire=00BCD4&currStreakLabel=00BCD4" />
+<img width="72%" src="https://streak-stats.demolab.com?user=SohaibMKhan&theme=dark&hide_border=true&ring=1565C0&fire=00BCD4&currStreakLabel=00BCD4" alt="Sohaib's GitHub contribution streak" />
 </a>
 
 </div>
@@ -275,9 +275,11 @@ Turn insights into action
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1565C0,100:00BCD4&height=90&section=header&animation=fadeIn" />
-
 ## 🔗 &nbsp;Let's Connect
+
+<img width="100%" src="./assets/profile-banner.svg" alt="Sohaib Muhammad Khan" />
+
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sohaib-muhammad-khan)
 [![Email](https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sohaib271201@gmail.com)
