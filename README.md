@@ -229,7 +229,7 @@ A native Windows-based monitoring approach for large synced document environment
 <br/><br/>
 
 <a href="https://github.com/SohaibMKhan">
-<img width="72%" src="https://streak-stats.demolab.com?user=SohaibMKhan&theme=dark&hide_border=true&ring=1565C0&fire=00BCD4&currStreakLabel=00BCD4" alt="Sohaib's GitHub contribution streak" />
+<img width="72%" src="https://github-readme-streak-stats-eight.vercel.app/?user=SohaibMKhan&theme=dark&hide_border=true&ring=1565C0&fire=00BCD4&currStreakLabel=00BCD4" alt="Sohaib's GitHub contribution streak" />
 </a>
 
 </div>
