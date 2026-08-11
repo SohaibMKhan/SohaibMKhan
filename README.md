@@ -275,11 +275,9 @@ Turn insights into action
 
 <div align="center">
 
+<img width="100%" src="./assets/connect-wave.svg" alt="Decorative profile wave" />
+
 ## 🔗 &nbsp;Let's Connect
-
-<img width="100%" src="./assets/profile-banner.svg" alt="Sohaib Muhammad Khan" />
-
-<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sohaib-muhammad-khan)
 [![Email](https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sohaib271201@gmail.com)
